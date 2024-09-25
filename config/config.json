@@ -1,4 +1,5 @@
 {
+  "polarityIntegrationUuid": "4489ba30-7b58-11ef-a7a2-4b418ae79f6a",
   "name": "Polarity Detection Forms",
   "acronym": "DETECT-FORMS",
   "description": "Display customized detection rule nomination and feedback forms to users.",
